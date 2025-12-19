@@ -1,16 +1,24 @@
-## Hi there 👋
+# 📡 [Dextrecs] Terminal System v2.5
 
-<!--
-**Dextrecs/Dextrecs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Developer Profile: Daniel
+> **"Privacy isn't an option, it's a standard."**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Active Projects
+* **[PrivateCam Pro](https://privatecam.wuaze.com/)** - An ephemeral, P2P encrypted video node system. No logs, no accounts.
+* **Simple RNG Simulator** - Exploring probability and randomized logic.
+
+### 💻 System Specs (Tech Stack)
+* **Frontend:** HTML5, CSS3 (Modern UI/UX Design)
+* **Logic:** JavaScript (WebRTC, PeerJS)
+* **Backend:** Learning PHP & SQL
+* **Security:** AES-256 Encryption Enthusiast
+
+### 📊 Connection Status
+- 🟢 **Current Status:** Refactoring Video Grid Logic
+- 🔭 **I’m currently learning:** Advanced SFU scaling & Database optimization
+- ⚡ **Fun Fact:** Built my first encrypted video platform at 13.
+
+---
+*🔒 This profile is encrypted. Access to source code is restricted per license agreements.*
