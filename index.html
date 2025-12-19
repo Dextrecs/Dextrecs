@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Daniel / Dextrecs Profile</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://unpkg.com/lucide@latest"></script>
+    <style>
+        body {
+            background-color: #000;
+            background-image: radial-gradient(circle at top right, #1e1b4b 0%, #000 40%);
+            min-height: 100vh;
+            color: white;
+            font-family: 'Inter', sans-serif;
+        }
+        .glass {
+            background: rgba(255, 255, 255, 0.02);
+            backdrop-filter: blur(12px);
+            border: 1px solid rgba(255, 255, 255, 0.05);
+            transition: all 0.3s ease;
+        }
+        .glass:hover {
+            background: rgba(255, 255, 255, 0.05);
+            transform: translateY(-2px);
+            border-color: rgba(99, 102, 241, 0.2);
+        }
+        .profile-glow {
+            box-shadow: 0 0 30px rgba(99, 102, 241, 0.3);
+        }
+        ::-webkit-scrollbar { width: 6px; }
+        ::-webkit-scrollbar-track { background: #000; }
+        ::-webkit-scrollbar-thumb { background: #1e1b4b; border-radius: 10px; }
+        a { text-decoration: none; color: inherit; }
+    </style>
+</head>
+<body class="p-6 md:p-20">
+
+    <div class="max-w-2xl mx-auto space-y-12">
+        
+        <header class="text-center space-y-6">
+            <div class="relative inline-block">
+                <img src="Assets/maxwell.gif" alt="Avatar" class="w-28 h-28 md:w-32 md:h-32 rounded-full border-2 border-indigo-500/50 profile-glow mx-auto object-cover">
+                <span class="absolute bottom-2 right-2 w-6 h-6 bg-green-500 border-4 border-black rounded-full animate-pulse"></span>
+            </div>
+            <div>
+                <h1 class="text-4xl md:text-5xl font-black tracking-tighter">Daniel / Dextrecs</h1>
+                <p class="text-indigo-400 font-semibold mt-4 text-lg md:text-xl opacity-80">
+                    13-year old builder crafting digital worlds.
+                </p>
+                <p class="text-zinc-500 text-sm md:text-base mt-4 max-w-md mx-auto leading-relaxed">
+                    Experimenting with WebRTC, Peer-to-Peer security, and RNG simulations.
+                </p>
+            </div>
+        </header>
+
+        <div class="flex justify-center gap-6">
+            <a href="https://github.com/Dextrecs" target="_blank" class="p-4 glass rounded-2xl text-zinc-400 hover:text-white" title="GitHub">
+                <i data-lucide="github"></i>
+            </a>
+            <a href="https://youtube.com/@qaxeliy" target="_blank" class="p-4 glass rounded-2xl text-zinc-400 hover:text-white" title="YouTube">
+                <i data-lucide="youtube"></i>
+            </a>
+            <a href="https://tiktok.com/@qaxeliy" target="_blank" class="p-4 glass rounded-2xl text-zinc-400 hover:text-white" title="TikTok">
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 12a4 4 0 1 0 4 4V4a5 5 0 0 0 5 5"></path></svg>
+            </a>
+        </div>
+
+        <section class="space-y-6">
+            <h2 class="text-xs font-black text-indigo-500 uppercase tracking-[0.4em] px-2">Projects</h2>
+            
+            <a href="https://privatecam.wuaze.com/?i=1" class="block glass p-6 rounded-[2rem] flex items-center gap-5 group">
+                <div class="w-14 h-14 bg-emerald-600/20 text-emerald-400 rounded-2xl flex items-center justify-center group-hover:scale-110 transition-transform">
+                    <i data-lucide="video"></i>
+                </div>
+                <div class="flex-1">
+                    <h3 class="font-bold text-lg">PrivacyCam Pro</h3>
+                    <span class="text-[8px] bg-indigo-500/20 text-indigo-400 px-2 py-1 rounded-full uppercase font-black">Stable Release</span>
+                    <p class="text-zinc-500 text-sm">Zero-log P2P video nodes.</p>
+                </div>
+                <i data-lucide="arrow-right" class="text-zinc-700 group-hover:text-white w-5 h-5 transition-colors"></i>
+            </a>
+
+            <a href="https://privatecam.wuaze.com/Beta/index.html" class="block glass p-6 rounded-[2rem] flex items-center gap-5 group border-dashed border-red-500/20 hover:border-red-500/40">
+                <div class="w-14 h-14 bg-red-600/10 text-red-500 rounded-2xl flex items-center justify-center group-hover:scale-110 transition-transform">
+                    <i data-lucide="flask-conical"></i>
+                </div>
+                <div class="flex-1">
+                    <h3 class="font-bold text-lg text-zinc-300">PrivacyCam <span class="text-red-500/80">Beta</span></h3>
+                    <span class="text-[8px] bg-red-500/20 text-red-400 px-2 py-1 rounded-full uppercase font-black">Unstable Build</span>
+                    <p class="text-zinc-600 text-sm">Testing: Screen Share & Recording.</p>
+                </div>
+                <i data-lucide="zap" class="text-red-900/40 group-hover:text-red-500 w-5 h-5 transition-colors"></i>
+            </a>
+
+            <a href="https://dextrecs.github.io/simples-rng-simulator/" target="_blank" class="block glass p-6 rounded-[2rem] flex items-center gap-5 group">
+                <div class="w-14 h-14 bg-amber-500/20 text-amber-400 rounded-2xl flex items-center justify-center group-hover:scale-110 transition-transform">
+                    <i data-lucide="dice-5"></i>
+                </div>
+                <div class="flex-1">
+                    <h3 class="font-bold text-lg">Simple's RNG</h3>
+                    <p class="text-zinc-500 text-sm">Advanced probability simulator.</p>
+                </div>
+                <i data-lucide="arrow-right" class="text-zinc-700 group-hover:text-white w-5 h-5 transition-colors"></i>
+            </a>
+        </section>
+
+        <footer class="text-center text-zinc-700 text-[10px] font-bold uppercase tracking-[0.5em] py-12">
+            STRICTLY CONFIDENTIAL | &copy; 2025
+        </footer>
+        <footer class="text-center space-y-2 py-12">
+    <p class="text-zinc-700 text-[10px] font-bold uppercase tracking-[0.5em]">
+        © 2025 DANIEL / DEXTRECS. ALL RIGHTS RESERVED.
+    </p>
+    <p class="text-red-900/40 text-[8px] uppercase font-black tracking-widest">
+        Proprietary Source: Unauthorized Distribution Prohibited.
+    </p>
+</footer>
+
+    </div>
+
+    <script>
+        lucide.createIcons();
+    </script>
+    <script src="script.js"></script>
+    
+</body>
+</html>
