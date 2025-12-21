@@ -1,16 +1,22 @@
-# Hi there, I'm **Daniel** but you can call me **Dextrecs**! 👋
+# Hi there, I'm **Daniel** (aka **Dextrecs**)! 👋 🇲🇾
 
-I'm a **13yo self-learning developer** passionate about creating games and stuffs.
+I'm a **13-year-old self-taught developer** from **Sabah, Malaysia** ⛰️. I love building games and exploring how the web works!
 
-### 🛠️ Tech Stack & Tools
-- **Languages:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-- **Frontend:** React, Tailwind CSS, Next.js
-- **Backend:** Node.js, PostgreSQL, Docker
-- **Tools:** Git, VS Code, TrebEdit Pro
+### 🛠️ My Tech Stack
+- **Frontend (The "Look"):** ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+- **Backend (The "Logic"):** ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+- **Mobile Coding:** Using **TrebEdit Pro** to code anytime, anywhere!
 
-### 🔭 Currently Working On
-- ⚡ **[ROBLOX LITE]**: A lite and limited  version of roblox.
-- 🌱 Learning: HTML,CSS,PHP,JS and SQL.
+### 🔭 What I'm Up To
+- ⚡ **ROBLOX LITE**: My main project right now—trying to make a lightweight version of the classic game experience.
+- 🌱 **Learning**: Diving deep into **PHP** and **SQL** to build databases for my projects.
 
-### 📫 How to Reach Me
-- 📧 Email: dandareen12@gmail.com
+### 📊 GitHub Stats
+![Dextrecs's GitHub stats](https://github-readme-stats.vercel.app/api?username=[Dextrecs]&show_icons=true&theme=tokyonight)
+
+### 📫 Connect with Me
+- 📧 Email: [dandareen12@gmail.com](mailto:dandareen12@gmail.com)
+- 📍 Based in: Sabah, Malaysia 🇲🇾
+
+---
+*"Bah, let's code!"* 💻
