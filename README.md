@@ -12,7 +12,7 @@ I'm a **13-year-old self-taught developer** from **Sabah, Malaysia** ⛰️. I l
 - 🌱 **Learning**: Diving deep into **PHP** and **SQL** to build databases for my projects.
 
 ### 📊 GitHub Stats
-![Dextrecs's GitHub stats](https://github-readme-stats.vercel.app/api?username=[Dextrecs]&show_icons=true&theme=tokyonight)
+![Dextrecs's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dextrecs&show_icons=true&theme=tokyonight)
 
 ### 📫 Connect with Me
 - 📧 Email: [dandareen12@gmail.com](mailto:dandareen12@gmail.com)
