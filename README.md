@@ -8,14 +8,13 @@ I'm a **13-year-old self-taught developer** from **Sabah, Malaysia** ⛰️. I l
 - **Mobile Coding:** Using **TrebEdit Pro** to code anytime, anywhere!
 
 ### 🔭 What I'm Up To
-- ⚡ **(RoLite) ROBLOX LITE**: My main project right now—trying to make a lightweight version of the classic game experience.
-- 🌱 **Learning**: Diving deep into **PHP** and **SQL** to build databases for my projects.
+- 🌱 **Learning**: Currently learning HTML, CSS and JavaScript.
 
 ### 📊 GitHub Stats
 ![Dextrecs's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dextrecs&show_icons=true&theme=tokyonight)
 
 ### 📫 Connect with Me
-- 📧 Email: [dandareen12@gmail.com](mailto:dandareen12@gmail.com)
+- 📧 Email: [dextrecs.dev@gmail.com](mailto: dextrecs.dev@gmail.com)
 - 📍 Based in: Sabah, Malaysia 🇲🇾
 
 ---
